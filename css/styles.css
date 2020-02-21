@@ -35,8 +35,9 @@
 .row
 {
     width: 100%;
+
 }
-.col-sm-4
+.col-sm-3
 {
-    margin-left: 10px;
+    margin-left: 90px;
 }
