@@ -47,7 +47,7 @@
 }
 .portfolio .row .col-sm-2 img
 {
-    margin-left: 180px;
+    
     width: 200px;
 }
 .portfolio{
@@ -85,4 +85,30 @@
 .delani h3
 {
     text-align: center;
+}
+
+.text1{
+    display: none;
+}
+
+.text2{
+    display: none;
+}
+
+.text3{
+    display: none;
+    
+}
+.portimg{
+   
+    margin: 20px;
+}
+.porttext{
+    display: none;
+}
+
+
+.port{
+ margin-right: 40px;  
+    
 }
