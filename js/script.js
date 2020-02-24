@@ -22,4 +22,22 @@ $(document).ready(function() {
      });
 
 
+
+
+function myFuntion()
+{
+  var name=document.getElementById("nameDetails").value;
+  alert(name+"we have received your message. Thank you for reaching out to us.");
+};
+
+
+$('.col-sm-2').on({
+    mouseover: function() {
+        $(this).find('span').fadeIn(200);
+    },
+    mouseout: function(){
+        $(this).find('span').stop().fadeOut(200);
+    },
+})
+
 });
